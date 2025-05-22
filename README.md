@@ -13,4 +13,4 @@ Java is in high demand with many job opportunities in software development.
 Java has popular frameworks like Spring and Hibernate which makes Java powerful for enterprise applications.
 Java supports object-oriented programming for clean and reusable code.
 It runs on all platforms Windows, Mac, and Linux using the JVM.
-Top companies like Amazon, Netflix, and LinkedIn use Java.
+Top companies like Amazon, Netflix, and LinkedIn use Java. 
